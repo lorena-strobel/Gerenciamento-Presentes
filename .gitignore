@@ -1,0 +1,11 @@
+# Executáveis
+*.exe
+*.out
+
+# Arquivos objeto
+*.o
+
+# Pastas de build
+output/
+bin/
+build/
